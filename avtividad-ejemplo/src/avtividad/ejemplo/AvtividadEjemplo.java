@@ -15,7 +15,6 @@ public class AvtividadEjemplo {
      */
     public static void main(String[] args) {
         System.out.println("lo que sea");
-        
     }
     
 }
